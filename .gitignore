@@ -1,0 +1,5 @@
+node_modules/
+*.sublime-*
+Thumbs.db
+*.sh
+*.sln
