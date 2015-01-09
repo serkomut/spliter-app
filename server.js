@@ -3,5 +3,5 @@ var port = process.env.port || 1320;
 
 http.createServer(function(req, res){
 	res.writeHead(200, {'Content-TYpe': 'text/plain'});
-	res.end('Running...');
+	res.end('End...');
 }).listen(port);
